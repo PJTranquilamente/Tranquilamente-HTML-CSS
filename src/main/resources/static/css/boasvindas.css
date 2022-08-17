@@ -1,0 +1,42 @@
+body {
+    background-image: url(fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+header {
+
+    text-align: center;
+    align-items: center;
+    padding-top: 80px;
+}
+
+h3 {
+    margin: auto;
+    width: 540px;
+    height: 142px;
+    font-family: 'Jalane Light';
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 71px;
+    color: black;
+    padding-top: 20px;
+}
+
+div {
+    text-align: center;
+    padding-top: 30px;
+}
+
+button {
+    font-size: medium;
+    font-family: 'Jalane Light';
+    width: 200px;
+    height: 50px;
+    border-radius: 205px;
+    background: #439B8B;
+    color: white;
+    border: 10px;
+}

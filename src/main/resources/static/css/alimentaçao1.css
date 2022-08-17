@@ -1,0 +1,141 @@
+body {
+    background-image: url(./fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    font-family: 'Jalane Light';
+    padding: 20px;
+    position: relative;
+    align-items: center;
+}
+
+.logo {
+    float: left;
+
+}
+
+
+#navegacao {
+    bottom: 60px;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+.user {
+    float: right;
+
+}
+
+
+section {
+    font-family: 'Jalane Light';
+    margin: auto;
+    position: relative;
+    text-align: justify;
+    background-color: white;
+    width: max-content;
+    width: 900px;
+    height: 830px;
+    padding: 60px;
+    border-radius: 60px;
+}
+
+.feed {
+    padding: 15px;
+    position: relative;
+    float: left;
+    left: 100px;
+    margin: auto;
+    width: 700px;
+    border-radius: 30px;
+}
+
+.butsec {
+    position: relative;
+    text-align: center;
+    top: 30px;
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    border: 3px;
+    width: 80px;
+    height: 40px;
+}
+
+.informacao {
+
+    text-align: justify;
+    float: left;
+}
+
+input {
+    border-radius: 100px;
+    background-color: white;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+h1 {
+
+    width: 900px;
+    font-size: 48px;
+    font-family: 'Jalane Light';
+    text-align: center;
+    background-image: url(./fundo.jpeg);
+}
+
+p {
+    font-size: 30px;
+    text-align: justify;
+}
+
+
+.logout {
+    float: right;
+    display: flex;
+    bottom: -70px;
+}
+
+.pago {
+
+    width: 200px;
+    height: 200px;
+    border-radius: 90px;
+    left: 100px;
+    float: left;
+    margin: auto;
+
+}
+.textpg{
+    float: right;
+    padding-top: 5px;
+    margin-right: 360px;
+    font-family: 'Jalane Light';
+    
+}
+
+
+.botaotpg {
+    float: right;
+    padding-top: 2px;
+    font-family: 'Jalane Light';
+    background-color: #439B8B;
+    border: #439B8B;
+    border-radius: 20px; 
+    margin-top: 5px;    
+    margin-right:400px;
+    width: 200px;
+    height: 60px;
+    font-size: larger;
+    color: white;
+
+}

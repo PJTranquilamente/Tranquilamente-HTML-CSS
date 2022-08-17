@@ -1,0 +1,166 @@
+body {
+    background-image: url(fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+header {
+
+    text-align: center;
+    align-items: center;
+    padding-top: 10px;
+}
+
+
+h3 {
+    margin: auto;
+    width: 540px;
+    height: 142px;
+    font-family: 'Jalane Light';
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 71px;
+    color: black;
+    padding-top: 20px;
+}
+
+div {
+    text-align: center;
+    padding-top: 30px;
+}
+
+button {
+    font-size: medium;
+    font-family: 'Jalane Light';
+    width: 200px;
+    height: 50px;
+    border-radius: 205px;
+    background: #439B8B;
+    color: white;
+    border: 10px;
+}
+
+
+
+
+
+
+header {
+    text-align: center;
+    align-items: center;
+    font-family: 'Jalane Light';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+
+
+    color: #000000;
+}
+
+h4 {
+    align-items: center;
+    font-family: 'Jalane Light';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    align-items: fixed;
+
+
+    color: #000000;
+}
+
+section {
+    text-align: center;
+    align-items: center;
+}
+
+form {
+    font-size: larger;
+    padding-top: 30px;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    width: 350px;
+    height: 300px;
+    border-radius: 30px;
+    border-color: #000000;
+}
+
+p {
+    
+    margin: auto;
+    width: 540px;
+    height: 20px;
+    left: 406px;
+    bottom: 200px;
+    font-family: 'Jalane Light';
+    font-style: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #303033;
+}
+
+label{
+    text-align: left;
+    display: flex;
+    padding-left: 25px;
+
+}
+
+input {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    width: 300px;
+
+}
+
+a {
+    color: blue;
+    text-decoration:none
+}
+
+footer {
+    text-align: center;
+}
+
+pre {
+    margin: auto;
+    width: 540px;
+    height: 20px;
+
+    bottom: 40px;
+    font-family: 'Jalane Light';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+
+
+    align-items: center;
+    text-align: center;
+
+    color: #303033;
+
+}
+
+.botao2{
+    border-color: gray;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+
+   
+
+
+}

@@ -1,0 +1,95 @@
+body{
+    background-image: url(fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    text-align: justify;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Jalane Light';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 44px;
+    font-size: 40px;
+    color: #000000;
+}
+h4{
+    text-align: center;
+    font-family: 'Jalane Light';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 44px;
+    color: #000000;
+}
+
+
+section{ 
+
+    text-align: center;
+    align-items: center;
+}
+form{
+    padding: 5px;
+    margin: auto;
+    height: 470px;
+    width:800px;
+    
+    align-items: center;
+    background-color: white;
+    border-radius: 30px;
+    border-color: #000000;
+}
+label,input{
+    font-size:medium;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: 'Jalane Light';
+    display: inline-block;
+    inline-size: 160px;
+    padding-left: 8px;
+    padding-right: 9px;
+
+}
+.confirm{
+    font-family: 'Jalane Light';
+    display: inline;
+    text-align: justify;
+}
+
+input[type="checkbox"]{
+    
+    -webkit-appearance: none;
+    background-color: gray;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    color: black;
+    border: 3px;
+   
+    
+}
+input[type="checkbox"]:checked {
+    background-color: #439B8B;
+}
+
+
+
+
+button{
+    background-color: #439B8B;
+    border: 3px;
+    color: white;
+    width: 150px;
+    height: 45px;
+    border-radius:50px;
+    font-size: 15px;
+
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
