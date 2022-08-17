@@ -1,0 +1,79 @@
+
+body{
+    background-image: url(fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+   }
+   
+
+
+section{
+    text-align: center;
+    align-items: center;
+}
+form{
+
+
+        padding-top: 15px;
+        margin: auto;
+        width: 600px;
+        font-size: 18px;
+        font-family:'Jalane Light';
+        box-sizing: border-box;
+        position: relative;
+        top: 150px;
+        background-color: #FFFFFF;
+        border-radius: 30px;
+        border-color: black;
+        
+        
+    }
+    
+ 
+    
+
+input{
+border-top: none;
+border-left: none;
+border-right: none;
+
+}
+.button{   
+    
+    background-color: #439B8B;
+    color: white;
+    border:10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 50px;
+    font-size: 15px;
+    
+}
+footer{
+    text-align: center;
+}
+p{
+    position: relative;
+    margin:auto;
+    width: 540px;
+    height: 20px;
+  
+    top: 250px;
+    font-family: 'Jalane Light';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    
+    
+    align-items: center;
+    text-align: center;
+    
+    color: #303033;
+    
+}
+a{
+    text-decoration:none;
+    color:blue;
+}
